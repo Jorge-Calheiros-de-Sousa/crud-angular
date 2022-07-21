@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Backend
 
-Para rodar o backend clone o repósitorio [backend-json-server](https://github.com/Jorge-Calheiros-de-Sousa/backend-json-server) e deixe o rodando.
+Para rodar o backend clone o repósitorio [backend-json-server](https://github.com/Jorge-Calheiros-de-Sousa/backend-json-server) e deixe-o rodando.
